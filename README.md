@@ -1,21 +1,23 @@
-# Project Title
-  Hite Jinro(하이트 진로)
+# HiteJinro (Inspired Project)
 
 ## Overview
-  Designing and publishing the home page of liquor companies
+An inspired rebuild of the HiteJinro brewery website using Vue.js. Focused on responsive layout and component-based architecture.
 
 ## Role
-  Full design and front-end publishing
+UI/UX Designer & Frontend Developer
 
-## Work process
-  Analysis of user needs and defining features
-  Create wire frames and initial design drafts
-  Component-Based Development Using Vue.js
-  Styling and layout configuration with CSS3
-  Reactive Design Implementation
+## Tech Stack
+HTML5, CSS3, JavaScript, Vue.js
 
-## Built With
-  HTML5, CSS3, JavaScript, Vue.js
+## Process
+- User requirements analysis and feature definition
+- Wireframe and initial design mockup creation
+- Component-based development using Vue.js
+- Styling and layout with CSS3
+- Responsive design implementation
+
+## Contribution
+90% — UI/UX Design, Frontend Development, QA & Debugging
 
 ## Initial Work
-  https://www.hitejinro.com/
+https://m.hitejinro.com/
