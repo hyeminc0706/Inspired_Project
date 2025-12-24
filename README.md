@@ -16,22 +16,22 @@ This project demonstrates my ability to design scalable interfaces, implement re
 
 <br>
 
-▶︎ **Live Demo: https://hyeminc0706.github.io/Inspired_Project/  
-▶︎ **Original Site: https://m.hitejinro.com/
+▶︎ Live Demo: https://hyeminc0706.github.io/Inspired_Project/  
+▶︎ Original Site: https://m.hitejinro.com/
 
 ---
 
 ## 🎯 Role
-**UI/UX Designer & Frontend Developer**  
+UI/UX Designer & Frontend Developer  
 Led the full design and development process, from user needs analysis to responsive implementation and QA.
 
 ---
 
 ## 🛠️ Tech Stack
-- **HTML5** — Semantic structure and layout foundation  
-- **CSS3** — Styling, responsive design, and animation  
-- **JavaScript** — DOM behavior and interactivity  
-- **Vue.js** — Component-based architecture and state management  
+- HTML5 — Semantic structure and layout foundation  
+- CSS3 — Styling, responsive design, and animation  
+- JavaScript — DOM behavior and interactivity  
+- Vue.js — Component-based architecture and state management  
 
 ---
 
@@ -64,7 +64,7 @@ Led the full design and development process, from user needs analysis to respons
 ---
 
 ## 📌 Contribution
-**90% Ownership**  
+90% Ownership  
 - UI/UX Design  
 - Frontend Development  
 - Component Architecture  
