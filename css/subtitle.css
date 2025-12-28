@@ -40,9 +40,8 @@ div#subtitle .titleani img:nth-child(2){
 div#subtitle .titleani .slick-dots{
   position: absolute;
   bottom: 25px;
-  left: 50%;
+  left: 650px;
   width: 310px;
-  margin-left: -150px;
   font-size: 0;
   text-align: center;
 }
