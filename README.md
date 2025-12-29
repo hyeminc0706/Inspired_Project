@@ -10,6 +10,7 @@ All UI/UX design and frontend development were completed independently as a pers
 ## 📌 **Overview**
 This project was created to improve the complex information hierarchy and heavy visual elements of the original website.  
 While maintaining the brand’s visual tone, I redesigned the layout and interactions to make the browsing experience more intuitive and user‑friendly.
+<img width="1705" height="944" alt="image" src="https://github.com/user-attachments/assets/441d8261-fae6-4b81-88b7-059cc402d586" />
 
 ---
 
@@ -78,11 +79,6 @@ While maintaining the brand’s visual tone, I redesigned the layout and interac
 - Understood how layout structure affects user flow  
 - Improved ability to translate design intent into functional code  
 - Learned the importance of debugging and refining UI interactions  
-
----
-
-## 📸 **Screenshots**
-<img width="1705" height="944" alt="image" src="https://github.com/user-attachments/assets/441d8261-fae6-4b81-88b7-059cc402d586" />
 
 ---
 
