@@ -1,7 +1,7 @@
 header.hiddenmenu{
   position:fixed;
   z-index: 99;
-  width: 1805px;
+  width: 100vw;
   background-color: #fff;
   border-bottom: 1px solid #dcdcdc;
   animation: set_fixed_official_gnb .4s linear both;
