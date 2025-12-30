@@ -7,6 +7,7 @@ main{
 #product .wrap{
   display: flex;
   flex-direction: column;
+  padding-bottom: 20px;
 }
 #product .wrap h2{
   width: 100%;
