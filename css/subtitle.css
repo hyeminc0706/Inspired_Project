@@ -23,7 +23,7 @@ div#subtitle .titleani .slick-arrow:hover{
 }
 div#subtitle .slick-next{
   right: 12.5%;
-  padding-right: 45px;
+  padding-right: 30px;
   background: rgba(255,255,255,0.5) url(../img/next.png) no-repeat 24px 50%;
 }
 div#subtitle .slick-next:hover{
