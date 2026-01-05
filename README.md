@@ -1,4 +1,4 @@
-# 🍻 HiteJinro Inspired Project  
+# 🍻 HiteJinro
 ### **UI/UX Redesign & Frontend Implementation (Personal Practice Project)**
 
 A desktop‑focused redesign practice project inspired by the HiteJinro website.  
@@ -83,10 +83,8 @@ While maintaining the brand’s visual tone, I redesigned the layout and interac
 ---
 
 ## 🚀 **Live Demo & Source**
-- **Live Demo:** https://hyeminc0706.github.io/Inspired_Project/  
-- **GitHub Repository:** https://github.com/hyeminc0706/Inspired_Project
-- **Case Study:** https://little-gauge-2b1.notion.site/HiteJinro-Inspired-Project-Case-Study-emoji-2d82c743869e8083b469d5a19fb432f9
-
+- **Live Demo:** [[Link](https://hyeminc0706.github.io/HiteJinro/)]  
+- **Case Study:** [[Link](https://little-gauge-2b1.notion.site/HiteJinro-Case-Study-2d82c743869e8083b469d5a19fb432f9)]
 ---
 
 ## 📥 **Installation**
